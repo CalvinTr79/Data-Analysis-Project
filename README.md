@@ -1,4 +1,4 @@
-# Portfolio 4: Analysis of Bike Rental Data in Seoul 🚴
+# Portfolio: Analysis of Bike Rental Data in Seoul 🚴
 
 ![alt text](ancient_korea-max.jpg)
 
