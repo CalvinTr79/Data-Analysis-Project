@@ -1,5 +1,5 @@
 # Portfolio: Analysis of Bike Rental Data in Seoul 🚲
-
+![Bike Path in Seoul](./ancient_korea-max.jpg)
 ## 1. Project Overview 📽️  
 This project analyzes a public dataset of bike rental demand in Seoul, South Korea. The objective is to examine factors influencing the number of bikes rented daily and apply machine learning models to predict and classify demand levels.
 
